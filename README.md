@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @hamnakanwal22
+- I am Intern.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning .html and css..
+- 🌱 I’m expert in .html and css..
+- Also knowledge in Wordpress and PHP
+- Frontend Developer
 
 <!---
 hamnakanwal22/hamnakanwal22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
