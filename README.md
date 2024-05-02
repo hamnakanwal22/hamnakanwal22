@@ -2,6 +2,7 @@
 - I am Intern.
 - 👀 I’m interested in web development.
 - 🌱 I’m expert in .html and css..
+- Also in Java Script and TailWind CSS...
 - Also knowledge in Wordpress and PHP
 - Frontend Developer
 
